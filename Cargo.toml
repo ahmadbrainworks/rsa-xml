@@ -1,6 +1,10 @@
 [package]
 name = "rsa_xml"
 author = "Ahmad Abdullahi Adamu <ahmad@strano.dev>"
+description = "A simple implementation of RSA key values in XML format, for encrypting and decrypting data"
+homepage = "https://github.com/ahmadbrainworks/rsa-xml"
+repository = "https://github.com/ahmadbrainworks/rsa-xml"
+documentation = "https://docs.rs/crate/rsa-xml/0.1.0"
 version = "0.1.0"
 edition = "2021"
 
