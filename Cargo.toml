@@ -1,0 +1,16 @@
+[package]
+name = "rsa_xml"
+author = "Ahmad Abdullahi Adamu <ahmad@strano.dev>"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde-xml-rs = "0.5.1"
+serde_derive = "1.0.138"
+serde = "1.0.138"
+serde_json = "1.0.82"
+base64 = "0.13.0"
+openssl = "0.10.40"
+rsa = "0.6.1"
